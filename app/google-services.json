@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228222574642",
+    "project_id": "controle-de-frotas-dev",
+    "storage_bucket": "controle-de-frotas-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228222574642:android:4bb313a8bb40d9baff5c2b",
+        "android_client_info": {
+          "package_name": "br.com.backupautomacao.imagens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228222574642-qikq21rg0ptficthh3srfidrqr2v9nov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4yVU3aSPuipVbBCJFy2HedPzAAJuT7hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228222574642-qikq21rg0ptficthh3srfidrqr2v9nov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
